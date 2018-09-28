@@ -1,1 +1,0 @@
-echo "# calendari" >> README.md
