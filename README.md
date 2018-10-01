@@ -1,1 +1,1 @@
-echo "# calendari" >> README.md
+# calendari
